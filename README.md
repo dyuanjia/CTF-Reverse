@@ -35,6 +35,10 @@ Some questions I did.
 
 - .pyc: uncompyle6
 
+### Winmagic
+
+- cpp with debugger info
+
 ### Back to the Future
 
 - windows x86
